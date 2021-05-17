@@ -1,9 +1,9 @@
 {
-  "name": "language-tcl-new",
-  "version": "0.3.7",
+  "name": "language-tcl-oscimpDigital",
+  "version": "0.3.8",
   "private": true,
   "description": "Syntax highlighting for Tcl",
-  "repository": "https://github.com/dacieri/language-tcl",
+  "repository": "https://github.com/TrLeo42/language-tcl"
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
